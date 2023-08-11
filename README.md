@@ -8,6 +8,7 @@ All the Cisco IOS commands and instructions can be found in [building-networks.p
 Here are the things included:
 - Creating VLANs
 - Configuring Trunk on Switches
+- Connecting Router and a Switch with Router-on-a-Stick model
 - Configuring DHCP on a Router
 - Sharing routing information between two Routers
 - Access Control Lists on Routers
